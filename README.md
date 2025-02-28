@@ -43,5 +43,5 @@ Local:     http://localhost:3000
 
 👤 **Modurotolu Olokode**
 
-- Website: [Modurotolu Olokode](https://www.linkedin.com/in/modurotoluolokode/)
+- LinkedIn: [Modurotolu Olokode](https://www.linkedin.com/in/modurotoluolokode/)
 - Github: [durotolu](https://github.com/durotolu)
